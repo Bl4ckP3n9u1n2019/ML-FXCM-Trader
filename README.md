@@ -10,6 +10,8 @@ This will connect to a demp account and I am still working on a way to execute a
 
 I am new to Python and coding is a bit messy as it is 50/50 being developed to run as a .py and testing it on Digital Ocean at the same time.
 
+There is a lot of 'commenting-out' as I was looking at providing user input for the ticker sysmbol to use and bar periods, this will probably won't be used in the final.
+
 ### The Theory
 This is being tested to compute 15 minute bars and trade on the output of the ML prediction. The time to take to predict would increase thus able to use 10, 5 or even 1 minutes bars to exetute a trade within these given bar timings.
 Futher development options are listed below.
